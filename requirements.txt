@@ -3,3 +3,4 @@ python-dotenv
 mutagen
 Pillow
 psycopg2-binary
+telethon
